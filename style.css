@@ -92,7 +92,7 @@
     color:white;
     text-align: left;
     transform: translateY(350%);
-    top:-100%
+    top:-100% 50px; 
     
 }
 
