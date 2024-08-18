@@ -7,3 +7,4 @@
 # I didn't put haeder tag due to me running out of time and not seeing it but I was able to put a nav and footer bar in my html.
 # 🎯 If so, what was it that you found difficult about these tasks?
 # Trying to add a 3rd image / page into my code. Whenever I tried it would put the 3rd image in the middle of my previous pages causing a headache and after trying to search the interent I was unsucessful.
+# Also the formatting could've been slightly better but I was on a time crunch due which is unfortunate.
